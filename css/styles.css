@@ -2,7 +2,7 @@
 
 .hello {
   font-family: 'Bungee', cursive;
-  font-size: 100px;
+  font-size: 6.25rem;
 }
 
 .typewriter{
@@ -77,7 +77,7 @@ opacity: .5;
 .column {
   flex: 25%;
   max-width: 25%;
-  padding: 0 4px;
+  padding: 20px 4px;
 }
 
 .column img {
