@@ -35,6 +35,10 @@
   
 }
 
+#services {
+  background-color: #4B8894;
+}
+
 .flex-child {
   flex: 1;
   margin: 30px;
@@ -50,9 +54,13 @@
 }
 
 .body-text {
-  font-family: 'Bungee Hairline', cursive;
+  font-family: 'Rosarvio', serif;
   font-weight: 600;
   margin-top: 40px;
+}
+
+.contact {
+  background-color: #4B8894;
 }
 
 .highlight {
