@@ -71,8 +71,8 @@
   color: orange;
 }
 
-.secondary-color {
-  background-color: #4B8894;
+.navbar-light {
+  background-color: #4B8894 !important;
 }
 
 /* PORTFOLIO */
