@@ -93,6 +93,10 @@ opacity: .5;
   background-color: #4B8894;
 }
 
+.portfolio-item:hover .caption {
+  background-color: #4B8894;
+}
+
 
 /* Responsive layout - makes a two column-layout instead of four columns */
 @media screen and (max-width: 800px) {
